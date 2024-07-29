@@ -2,6 +2,6 @@
 Web版本：https://air.evautocar.com/
 
 ## 赞助商
-Power By Xele
+Power By [Xele](https://evautocar.com/)
+  
 Xele - Professional EV Charging Station Manufacturer
-[Xele](https://evautocar.com/)
